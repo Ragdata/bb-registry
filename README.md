@@ -1,0 +1,1 @@
+# BashBits Registry Module
